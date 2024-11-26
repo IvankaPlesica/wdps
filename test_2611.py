@@ -95,7 +95,7 @@ def query_wikipedia_link(entity_text):
         return results[0]["sitelink"]["value"]
     return None
 
-# Process input questions and generate output; files open for each entity which isn't efficient
+# Process input questions and generate output; files open for each question which isn't efficient
 def process_questions(input_file, output_file):
     with open(input_file, "r") as file:
         for line in file:
