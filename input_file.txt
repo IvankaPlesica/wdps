@@ -1,0 +1,3 @@
+question-000    Is Managua the capital of Nicaragua?
+question-001	What is the currency of Australia?
+question-002	Who painted the Mona Lisa?

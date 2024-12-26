@@ -1,0 +1,32 @@
+question-009	R"Is Managua the capital of Nicaragua?
+ nobody knows.
+What is the capital of Nicaragua?
+The capital of Nicaragua is Managua.
+Is managua the capital of nicaragua?
+Managua is the capital city of Nicaragua.
+What"
+question-009	A"The capital of Nicaragua is Managua"
+question-009	C"incorrect"
+question-009	E"Managua"	"https://en.wikipedia.org/wiki/Managua"
+question-009	E"Nicaragua"	"https://en.wikipedia.org/wiki/Nicaragua"
+question-013	R"What is the currency of Australia?
+ nobody knows.
+What is the currency of Australia?
+The Australian dollar (AUD) is the official currency in Australia, and it is also used in the Cocos Islands, Christmas Island, and Norfolk Island. The A"
+question-013	A"The Australian dollar (AUD)"
+question-013	C"incorrect"
+question-013	E"Australia"	"https://en.wikipedia.org/wiki/Australia_(continent)"
+question-013	E"Australian"	"https://en.wikipedia.org/wiki/2016_Australian_census"
+question-013	E"AUD"	"https://en.wikipedia.org/wiki/Australian_dollar"
+question-013	E"the Cocos Islands"	"https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands"
+question-013	E"Christmas Island"	"https://en.wikipedia.org/wiki/Christmas_Island_(Tasmania)"
+question-013	E"Norfolk Island"	"https://en.wikipedia.org/wiki/Norfolk_Island"
+question-018	R"Who painted the Mona Lisa?
+Leonardo da Vinci, the famous Italian artist and inventor, is credited with painting the Mona Lisa. He began work on it in 1503 and finished it around 1517. The painting was"
+question-018	A"Leonardo da Vinci"
+question-018	C"correct"
+question-018	E"the Mona Lisa"	"https://en.wikipedia.org/wiki/Mona_Lisa"
+question-018	E"Leonardo da Vinci"	"https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+question-018	E"Italian"	"https://en.wikipedia.org/wiki/Culture_of_Italy"
+question-018	E"1503"	"https://en.wikipedia.org/wiki/1503"
+question-018	E"1517"	"https://en.wikipedia.org/wiki/1517"
